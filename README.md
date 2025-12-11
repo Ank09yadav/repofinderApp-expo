@@ -1,7 +1,7 @@
 # 🔍 Random GitHub Repo Finder
-contact info : 
-        instagram : ank.0119.yadav
-        telegram : computernotes_1 || @ank09yadav
+contact info :  
+        instagram : ank.0119.yadav 
+        telegram : computernotes_1 || @ank09yadav 
         LinkedIn : https://www.linkedin.com/in/ankuryadavank09012004?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app  
         
 A simple and efficient React Native mobile application built with **Expo**. This app allows users to enter a GitHub username and instantly discover a **random repository** from that user's public portfolio.
