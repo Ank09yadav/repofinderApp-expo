@@ -1,13 +1,11 @@
 {
   "expo": {
-
     "name": "gitHubRepoFinder",
     "slug": "gitHubRepoFinder",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "githubrepofinder",
-
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
@@ -45,6 +43,12 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "02819a16-eae2-47c2-9053-27ed58b370f6"
+      }
     }
   }
 }
