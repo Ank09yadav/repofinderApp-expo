@@ -27,7 +27,7 @@ const settings = () => {
     <View style={styles.container}>
       <Text>settings</Text>
       <TextInput
-        style={{ height: 40, borderColor: 'gray', borderWidth: 1, width: 40, marginTop: 20, paddingLeft: 10 }}
+        style={{ height: 40, borderColor: 'gray', borderWidth: 1, width: 200, marginTop: 20, paddingLeft: 10 }}
         value={username}
         onChangeText={setUsername}
         placeholder="Enter your github user name "
