@@ -1,8 +1,8 @@
 # 🔍 Random GitHub Repo Finder
 contact info :  
-     ###   instagram : ank.0119.yadav 
-      ###  telegram : computernotes_1 || @ank09yadav 
-      ###  LinkedIn : https://www.linkedin.com/in/ankuryadavank09012004?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app  
+        instagram : ank.0119.yadav \n
+        telegram : computernotes_1 || @ank09yadav \n 
+        LinkedIn : https://www.linkedin.com/in/ankuryadavank09012004?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app  \n
         
 A simple and efficient React Native mobile application built with **Expo**. This app allows users to enter a GitHub username and instantly discover a **random repository** from that user's public portfolio.
 
@@ -36,7 +36,7 @@ Make sure you have the following installed:
 Clone the repository and install dependencies:
 
 ```bash
-git clone [https://github.com/your-username/github-repo-finder.git](https://github.com/your-username/github-repo-finder.git)
+git clone https://github.com/Ank09yadav/github-repo-finder.git 
 cd github-repo-finder
 bun install
 ```
